@@ -26,7 +26,7 @@
 
 .movie{
   width: 100%;
-  height: 480px;
+  /* height: 40px; */
   border: 1px solid black;
   background-color: white;
   padding: 10px;
